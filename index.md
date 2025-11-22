@@ -1,14 +1,15 @@
-# Hey, I’m Subham 👋
+# Hey, I’m Subham 
 
-Welcome to my site.
+Welcome to my project docs.
 
-I’m a student who likes engineering, robotics, AI, and breaking things just to learn how to fix them.
+I’m a student who likes engineering, robotics, AI, and much more. 
 
-## Site:
+# Site:
 
 - Projects
 - Experiments
 - Ideas
+- Hacks
 - Stuff I’m learning
 
-More coming soon.
+More coming soon. 
